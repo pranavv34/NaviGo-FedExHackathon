@@ -34,6 +34,9 @@ The logistics and transportation industry faces challenges in:
 
 ## 🚀 Getting Started
 
+### Note:
+Our current UI is minimal and serves as a basic interface for showcasing the system's functionality. We plan to improve the UI for a more polished and user-friendly experience. The backend functionality is complete, and the presentation has been submitted.
+
 ### Prerequisites
 ```bash
 python 3.x
