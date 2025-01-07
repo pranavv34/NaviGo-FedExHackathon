@@ -58,11 +58,6 @@ cd frontend
 npm install
 ```
 
-4. Set up environment variables
-```bash
-TOMTOM_API_KEY=your_key
-AQICN_API_KEY=your_key
-```
 
 ### Running the Application
 1. Start the Flask backend
